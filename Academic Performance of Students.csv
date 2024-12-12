@@ -1,0 +1,11 @@
+﻿Student_ID,Name,Age,Gender,Study_Hours,Attendance_Percentage,Midterm_Score,Final_Score,Extracurricular_Activities,Parental_Education_Level,SAT_Score
+301,Alice,18,Female,15,95,85,88,Yes,Bachelor's,1300
+302,Bob,19,Male,10,80,78,82,No,High School,1200
+303,Charlie,17,Male,12,90,80,84,Yes,Master's,1250
+304,Daisy,18,Female,20,98,92,95,Yes,Bachelor's,1400
+305,Ethan,20,Male,8,75,70,74,No,High School,1100
+306,Fiona,17,Female,18,92,89,93,Yes,Master's,1350
+307,George,19,Male,7,65,68,70,No,High School,1050
+308,Hannah,18,Female,14,88,84,87,Yes,Bachelor's,1280
+309,Isaac,17,Male,16,94,87,90,Yes,Bachelor's,1320
+310,Julia,19,Female,11,85,79,83,No,High School,1220
